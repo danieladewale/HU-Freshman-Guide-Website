@@ -152,7 +152,7 @@ img {
 }
 
 .img1:hover {
-    -webkit-transform: scale(2.5,2.5);
+    webkit-transform: scale(2.5,2.5);
     margin-left: 550px;
     display: block;
     margin-right: 500px;
